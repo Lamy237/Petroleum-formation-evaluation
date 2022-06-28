@@ -3,6 +3,9 @@ To calculate bottom hole temperature (BHT) of the formation
 
 ## Data
 
+- Sea floor : 300 m
+- Sea floor temperature : 10 °C
+
 |Process                 | Depth (m)  | Temp.(°F)   | Time & Date   | T (hours)   | (t+T)/T    |
 |------------------------|:----------:|:-----------:|:-------------:|:-----------:|:----------:|
 |Drilling Stopped        | 3300       | -           | 22:00/15th    | -           | -          |
