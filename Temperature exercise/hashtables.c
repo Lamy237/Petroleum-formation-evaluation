@@ -113,6 +113,8 @@ int logs_remove(Logs *table[], char logName[])
         toDelete = table[position]->first;
         table[position]->first = toDelete->next;
         free(toDelete);
+        
+        return 1;
     }
     else
     {
