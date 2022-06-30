@@ -23,5 +23,17 @@ To calculate scenario-based hydrocarbon volumes in a reservoir
 |Water saturation (Sw)            | 28%                                           |
 |Gas formation volume factor (Bg) | 0.0035 (reservoir cu.ft per stock tank cu.ft) |
 
+## Questions
+
+-	Calculate the STOOIP.
+-	Calculate the two resulting values of STOOIP if there is an error of ±20% in the area of the oil field.
+-	Calculate the two resulting values of STOOIP if there is an error of ±20% in the thickness of the formation.
+-	Calculate the two resulting values of STOOIP if there is an error of ±20% in the porosity of the formation.
+-	Calculate the two resulting values of STOOIP if there is an error of ±20% in the water saturation of the formation.
+-	Calculate the two resulting values of STOOIP if there is an error of ±20% in the oil formation volume factor for the oil field.
+-	Summarise the results in the tabulated manner.
+-	Repeat all the steps for a gas reservoir.
+
+
 ## Reference
 **Dr. Paul W.J. Glover**, *Petrophysics MSc Course Notes*, (University of Aberdeen, 2000), pp. 285 - 287.
